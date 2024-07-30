@@ -14,6 +14,7 @@
 		20EC155B2C58185400003BFE /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 20EC155A2C58185400003BFE /* Assets.xcassets */; };
 		20EC155E2C58185400003BFE /* Base in Resources */ = {isa = PBXBuildFile; fileRef = 20EC155D2C58185400003BFE /* Base */; };
 		20EC15662C581AA300003BFE /* Person.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20EC15652C581AA300003BFE /* Person.swift */; };
+		20EC156A2C58F6B900003BFE /* GreetingViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20EC15692C58F6B900003BFE /* GreetingViewModel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		20EC155D2C58185400003BFE /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		20EC155F2C58185400003BFE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		20EC15652C581AA300003BFE /* Person.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Person.swift; sourceTree = "<group>"; };
+		20EC15692C58F6B900003BFE /* GreetingViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GreetingViewModel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 				20EC15512C58185200003BFE /* AppDelegate.swift */,
 				20EC15532C58185200003BFE /* SceneDelegate.swift */,
 				20EC15552C58185200003BFE /* ViewController.swift */,
+				20EC15692C58F6B900003BFE /* GreetingViewModel.swift */,
 				20EC15572C58185200003BFE /* Main.storyboard */,
 				20EC15652C581AA300003BFE /* Person.swift */,
 				20EC155A2C58185400003BFE /* Assets.xcassets */,
@@ -143,6 +146,7 @@
 			files = (
 				20EC15562C58185200003BFE /* ViewController.swift in Sources */,
 				20EC15522C58185200003BFE /* AppDelegate.swift in Sources */,
+				20EC156A2C58F6B900003BFE /* GreetingViewModel.swift in Sources */,
 				20EC15662C581AA300003BFE /* Person.swift in Sources */,
 				20EC15542C58185200003BFE /* SceneDelegate.swift in Sources */,
 			);
